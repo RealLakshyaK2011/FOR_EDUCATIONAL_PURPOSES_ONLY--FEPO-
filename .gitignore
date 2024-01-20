@@ -8,4 +8,6 @@ Release
 __pycache__
 .idea
 *.log
-
+*.exe
+*.dll
+*.lib
